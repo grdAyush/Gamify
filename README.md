@@ -54,5 +54,4 @@ To install and run Gamify locally, follow these steps:
 4. Start the bot by running the following
 ```
 npm run start
-
 ```
