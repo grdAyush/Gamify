@@ -52,3 +52,7 @@ To install and run Gamify locally, follow these steps:
 
 3. Set up your bot token and any other necessary configuration variables in a `.env` file. Refer to `.env.example` for the required variables.
 4. Start the bot by running the following
+```
+npm run start
+
+```
